@@ -1,1 +1,1 @@
-package inheritance_java;
+package InterviewPrepration;
